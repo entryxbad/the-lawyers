@@ -27,7 +27,8 @@ const NavMobile = () => {
                                 activeClass='active'
                                 spy={true}
                                 offset={-200}
-                                className='hover:text-accent-hover transition-all duration-300 cursor-pointer'>
+                                className='hover:text-accent-hover transition-all duration-300 cursor-pointer'
+                                onClick={() => { setIsOpen(false) }}>
 
                                 {item.name}</Link>
                         </li>

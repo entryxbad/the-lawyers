@@ -1,4 +1,5 @@
 import React from 'react'
+import BackToTop from './components/BackToTop/BackToTop'
 import Banner from './components/Banner/Banner'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
@@ -17,6 +18,7 @@ const App = () => {
       <Newsletter />
       <Contact />
       <Footer />
+      <BackToTop />
     </div>
   )
 }
