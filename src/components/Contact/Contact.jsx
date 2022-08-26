@@ -3,7 +3,7 @@ import { social } from '../../data'
 
 const Contact = () => {
     return (
-        <section id='contact' className='bg-primary text-white min-h-[732px] section'>
+        <section id='contact' className='bg-primary text-white min-h-[900px] section'>
             <div className='container mx-auto text-center'>
                 <h2 className='text-5xl font-primary font-extrabold mb-4'>Contact us</h2>
                 <p className='max-w-[540px] mx-auto px-6 lg:px-0 mb-[64px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, delectus. Quos eos temporibus hic quisquam modi labore dignissimos cupiditate in?</p>
