@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/the-lawyers/static/css/main.334c72ff.css",
-    "main.js": "/the-lawyers/static/js/main.ca222acd.js",
+    "main.css": "/the-lawyers/static/css/main.3dc021ea.css",
+    "main.js": "/the-lawyers/static/js/main.a446f044.js",
     "static/media/lawyer_banner.png": "/the-lawyers/static/media/lawyer_banner.d2aebd4035bd7d1470e0.png",
     "static/media/lawyer2.png": "/the-lawyers/static/media/lawyer2.29fd96cd09e450bd7aba.png",
     "static/media/lawyer1.png": "/the-lawyers/static/media/lawyer1.d23cbef106dcde499d57.png",
     "static/media/lawyer3.png": "/the-lawyers/static/media/lawyer3.1e3daa360fcd0e8540d1.png",
     "index.html": "/the-lawyers/index.html",
-    "main.334c72ff.css.map": "/the-lawyers/static/css/main.334c72ff.css.map",
-    "main.ca222acd.js.map": "/the-lawyers/static/js/main.ca222acd.js.map"
+    "main.3dc021ea.css.map": "/the-lawyers/static/css/main.3dc021ea.css.map",
+    "main.a446f044.js.map": "/the-lawyers/static/js/main.a446f044.js.map"
   },
   "entrypoints": [
-    "static/css/main.334c72ff.css",
-    "static/js/main.ca222acd.js"
+    "static/css/main.3dc021ea.css",
+    "static/js/main.a446f044.js"
   ]
 }
