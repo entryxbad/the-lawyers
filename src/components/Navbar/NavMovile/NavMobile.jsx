@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import BarsIcon from '../assets/img/bars.png'
-import CloseIcon from '../assets/img/close.png'
-import { navigation } from '../data'
+import BarsIcon from '../../../assets/img/bars.png'
+import CloseIcon from '../../../assets/img/close.png'
+import { navigation } from '../../../data'
 import { Link } from 'react-scroll'
 
 const NavMobile = () => {
